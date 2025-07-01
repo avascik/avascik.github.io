@@ -79,7 +79,7 @@ a {
   padding: 10px;
   margin: auto;
   width: 600px;
-  height: 1300px;
+  height: 1380px;
   border: 4px double black ;
   text-align: center;
   backdrop-filter: blur(10px); /* <-- This is the blur */
