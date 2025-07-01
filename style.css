@@ -1,0 +1,119 @@
+@font-face {
+  font-family: Commodore64;
+  src: url(CommodorePixeled.ttf);
+}
+
+body {
+  font-family: "Commodore64";
+  background-image: url(https://gif.plaza.one/03.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color:black ;
+}
+
+.button {
+  border: 4px double black ;
+  padding: 10px;
+  margin: 10px;
+  color:black ;
+}
+
+.bottom-button {
+  border: 4px double black ;
+  padding: 5px;
+  margin: 15px;
+  margin-left: 80px;
+  margin-right: 80px;
+  color:black ;
+  backdrop-filter: blur(10px); /* <-- This is the blur */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+}
+
+.small-button {
+  border: 4px double black ;
+  padding: 5px;
+  margin: 15px;
+  margin-left: 80px;
+  margin-right: 80px;
+  color:black ;
+}
+
+.main {
+  padding: 10px;
+  margin: auto;
+  width: 600px;
+  height: 700px;
+  border: 4px double black ;
+  text-align: center;
+  backdrop-filter: blur(10px); /* <-- This is the blur */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+}
+
+.adofai {
+  padding: 10px;
+  margin: auto;
+  width: 600px;
+  height: 800px;
+  border: 4px double black ;
+  text-align: center;
+  backdrop-filter: blur(10px); /* <-- This is the blur */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+}
+
+.history {
+  padding: 10px;
+  margin: auto;
+  width: 600px;
+  height: 1300px;
+  border: 4px double black ;
+  text-align: center;
+  backdrop-filter: blur(10px); /* <-- This is the blur */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 44px 6px rgba(0,0,0,0.75);
+}
+
+.button:hover {
+  background-color: rgba(0,0,0,0.35);
+}
+
+.small-button:hover {
+  background-color: rgba(0,0,0,0.35);
+}
+
+.bottom-button:hover {
+  background-color: rgba(0,0,0,0.35);
+}
+
+.important {
+  color: rgb(237, 177, 66);
+}
+
+.sep {
+  border: 4px double black ;
+  margin: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.other {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
