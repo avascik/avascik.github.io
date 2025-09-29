@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>avascik :3</title>
+</head>
+
+<body>
+    <script src="script.js"></script>
+
+    <div class="main">
+        <h1>changelog</h1>
+        <h4>04.07.2025</h4>
+        <p>better mobile support (atleast i thought... sorry its not good yet)</p>
+        <p>buttons work better now</p>
+        <p>this page</p>
+
+        <h4>22.08.25</h4>
+        <p>updated some stuff</p>
+
+	<h4>29.09.25</h4>
+	<p>added meetups page</p>
+	<p>change font</p>
+	<p>updated some stuff</p>
+
+
+    </div>
+    <div class="other">
+        <a class="bottom-button" href="./index.html">go back</a>
+    </div>
+</body>
+
+</html>

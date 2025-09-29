@@ -11,7 +11,7 @@
 <body>
     <script src="script.js"></script>
 
-    <div class="linux">
+    <div class="main">
         <h1>linux configs</h1>
         <a class="button" href="https://github.com/avascik/linux-configs/tree/main/i3">i3 configuration</a>
         <p>put it into ~/.config/i3/</p>
@@ -25,20 +25,6 @@
         <a class="button" href="https://github.com/avascik/linux-configs/tree/main/kitty">kitty
                 configuration</a>
         <p>put it into ~/.config/kitty/</p>
-	<a class="button" href="https://github.com/avascik/linux-configs/tree/main/bspwm">bspwm
-                configuration</a>
-        <p>put it into ~/.config/bspwm/</p>
-	<a class="button" href="https://github.com/avascik/linux-configs/tree/main/sxhkd">sxhkd
-                configuration</a>
-        <p>put it into ~/.config/sxhkd/</p>
-	<a class="button" href="https://github.com/avascik/linux-configs/tree/main/emacs">emacs
-                configuration</a>
-        <p>put it into ~/</p>
-	<a class="button" href="https://github.com/avascik/linux-configs/tree/main/wezterm">wezterm
-                configuration</a>
-        <p>put it into ~/</p>
-	
-	
 
     </div>
     <div class="other">
